@@ -70,7 +70,9 @@
     "tiny-emitter": "^2.1.0"
   },
   "peerDependencies": {
+    "@walletconnect/ethereum-provider": "^2.6.2",
     "@walletconnect/web3-provider": "^1.8.0",
+    "@web3modal/standalone": "^2.2.2",
     "@xstate/react": "^3.0.0",
     "ethers": "^5.0.0",
     "xstate": "^4.30.0"
